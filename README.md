@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Views: ![](https://komarev.com/ghpvc/?username=Lagrangeli&label=Views)
+Views: ![](https://komarev.com/ghpvc/?username=Lagrangeli)
